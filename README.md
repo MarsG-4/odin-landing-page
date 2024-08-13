@@ -1,1 +1,2 @@
 # odin-landing-page
+This is my second odin project and will be creating an entire web page based on provided images. This project should help me practice using Flexbox and provide hands-on experience with starting a website. 
